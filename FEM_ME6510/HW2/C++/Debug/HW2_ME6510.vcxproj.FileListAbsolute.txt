@@ -1,0 +1,4 @@
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\HW2_ME6510\Debug\HW2_ME6510.exe
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\HW2_ME6510\Debug\HW2_ME6510.pdb
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Debug\HW2_ME6510.exe
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Debug\HW2_ME6510.pdb

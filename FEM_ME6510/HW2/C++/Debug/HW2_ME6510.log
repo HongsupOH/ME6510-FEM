@@ -1,0 +1,23 @@
+﻿  HW2_ME6510.cpp
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(76,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(75): message : while compiling class template member function 'void Truss<2>::add_dofs(void)'
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\HW2_ME6510.cpp(63): message : see reference to function template instantiation 'void Truss<2>::add_dofs(void)' being compiled
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\HW2_ME6510.cpp(48): message : see reference to class template instantiation 'Truss<2>' being compiled
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(113,55): warning C4244: 'argument': conversion from 'double' to 'Eigen::Index', possible loss of data
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(110): message : while compiling class template member function 'void Truss<2>::globK(void)'
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\HW2_ME6510.cpp(71): message : see reference to function template instantiation 'void Truss<2>::globK(void)' being compiled
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(114,52): warning C4244: 'argument': conversion from 'double' to 'Eigen::Index', possible loss of data
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(115,52): warning C4244: 'argument': conversion from 'double' to 'Eigen::Index', possible loss of data
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(123,33): warning C4244: 'argument': conversion from 'double' to 'Eigen::Index', possible loss of data
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(124,33): warning C4244: 'argument': conversion from 'double' to 'Eigen::Index', possible loss of data
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(133,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(134,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(150,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(144): message : while compiling class template member function 'void Truss<2>::solve(Eigen::VectorXd,Eigen::VectorXd,int [],int [])'
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\HW2_ME6510.cpp(77): message : see reference to function template instantiation 'void Truss<2>::solve(Eigen::VectorXd,Eigen::VectorXd,int [],int [])' being compiled
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(151,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(158,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(159,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(167,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Truss.h(168,30): warning C4018: '<': signed/unsigned mismatch
+  HW2_ME6510.vcxproj -> C:\Users\hongs\OneDrive\바탕 화면\ME_EN_6510\HW2\C++\Debug\HW2_ME6510.exe
